@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @ramugopal92
+- Hi, I'm Ramu Gopal 👋
+- Mechanical Design Engineer (10+ years) focused on **Design Automation**, **SolidWorks VBA/API tooling**, and **AI/ML applied to engineering workflows**.  
+I build practical tools that reduce manual effort, improve design quality, and standardize engineering outputs.
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Data field
