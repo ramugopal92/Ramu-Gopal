@@ -4,9 +4,6 @@ I build practical tools that reduce manual effort, improve design quality, and s
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Data field
-- 📫 How to reach me hello@thetechthinker.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 ramugopal92/ramugopal92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
